@@ -16,3 +16,7 @@ Step 2. Once the program has been installed, you'll need to install SceneBuilder
 Step 3. Open Netbeans, go to Tools -> Options -> Java -> JavaFX
   Click the dropdown box, browse, then select the directory where Scene Builder was installed,
   default location should be Users/appData/local/SceneBuilder.
+
+
+Notes:
+Comments will be added later this weekend on each of the code. If you take your time with the code you'll understand most of it is just using the objects for classes that are previously defined by SceneBuilder and we're modifying their methods. 
